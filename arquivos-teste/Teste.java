@@ -1,12 +1,11 @@
 public class Teste {
 
-    public static void main(String[] args) {
+    public static void main() {
 
-        int idade = 20;
-        float altura = 1.75;
+        int idade
+        idade = 20
 
-        if (idade >= 18) {
-            System.out.println("Maior de idade");
-        }
+        int altura;
+        altura = 180;
     }
 }
